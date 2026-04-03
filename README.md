@@ -1,9 +1,5 @@
 <h1 align="center">Clinical Question Answering (BERT-Powered)</h1>
 
-<p align="center">
-  <strong>Automating medical data retrieval to recover clinical hours and reduce operational costs.</strong>
-</p>
-
 <hr />
 
 <h2> Business Value & ROI</h2>
